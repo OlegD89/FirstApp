@@ -13,6 +13,7 @@ namespace WebApplication1
     {
         public static void Main(string[] args)
         {
+            //todo проверка коммита
             CreateHostBuilder(args).Build().Run();
         }
 
